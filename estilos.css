@@ -1,0 +1,16 @@
+.contenedor{
+    display: flex;
+    margin: 0 auto;
+    width: 80%;
+    border: 4px solid blue;
+}
+
+.izquierda{
+    width: 40%;
+    margin: 10px;
+}
+
+.derecha{
+    
+    margin: 10px;
+}
